@@ -1,0 +1,149 @@
+[
+  {
+    "matchId": "0zSjbNHM",
+    "url": "https://www.flashscore.com/match/0zSjbNHM/",
+    "sport": "football",
+    "category": "ENGLAND",
+    "tournament": "Premier League",
+    "country": "England",
+    "surface": null,
+    "season": "2026/2027",
+    "stage": "Main",
+    "round": "Round 7",
+    "startTime": "2026-10-19T19:00:00Z",
+    "status": "finished",
+    "statusCode": 3,
+    "home": {
+      "name": "Tottenham",
+      "id": "UDg08Ohm",
+      "slug": "tottenham",
+      "country": null,
+      "url": "https://www.flashscore.com/team/tottenham/UDg08Ohm/"
+    },
+    "away": {
+      "name": "Coventry",
+      "id": "GOvB22xg",
+      "slug": "coventry",
+      "country": null,
+      "url": "https://www.flashscore.com/team/coventry/GOvB22xg/"
+    },
+    "homeScore": 3,
+    "awayScore": 1,
+    "homeScoreFullTime": 3,
+    "awayScoreFullTime": 1,
+    "winner": "home",
+    "periods": [
+      {
+        "period": 1,
+        "home": 1,
+        "away": 0
+      },
+      {
+        "period": 2,
+        "home": 2,
+        "away": 1
+      }
+    ],
+    "listType": "results",
+    "sourceUrl": "https://www.flashscore.com/football/england/premier-league/results/",
+    "scrapedAt": "2026-10-22T09:18:16.598150Z"
+  },
+  {
+    "matchId": "hAOr0qmA",
+    "url": "https://www.flashscore.com/match/hAOr0qmA/",
+    "sport": "football",
+    "category": "ENGLAND",
+    "tournament": "Premier League",
+    "country": "England",
+    "surface": null,
+    "season": "2026/2027",
+    "stage": "Main",
+    "round": "Round 7",
+    "startTime": "2026-10-18T15:30:00Z",
+    "status": "finished",
+    "statusCode": 3,
+    "home": {
+      "name": "Nottingham",
+      "id": "UsushcZr",
+      "slug": "nottingham",
+      "country": null,
+      "url": "https://www.flashscore.com/team/nottingham/UsushcZr/"
+    },
+    "away": {
+      "name": "Arsenal",
+      "id": "hA1Zm19f",
+      "slug": "arsenal",
+      "country": null,
+      "url": "https://www.flashscore.com/team/arsenal/hA1Zm19f/"
+    },
+    "homeScore": 0,
+    "awayScore": 1,
+    "homeScoreFullTime": 0,
+    "awayScoreFullTime": 1,
+    "winner": "away",
+    "periods": [
+      {
+        "period": 1,
+        "home": 0,
+        "away": 0
+      },
+      {
+        "period": 2,
+        "home": 0,
+        "away": 1
+      }
+    ],
+    "listType": "results",
+    "sourceUrl": "https://www.flashscore.com/football/england/premier-league/results/",
+    "scrapedAt": "2026-10-22T09:18:16.776692Z"
+  },
+  {
+    "matchId": "Y34wXpJN",
+    "url": "https://www.flashscore.com/match/Y34wXpJN/",
+    "sport": "football",
+    "category": "ENGLAND",
+    "tournament": "Premier League",
+    "country": "England",
+    "surface": null,
+    "season": "2026/2027",
+    "stage": "Main",
+    "round": "Round 7",
+    "startTime": "2026-10-18T13:00:00Z",
+    "status": "finished",
+    "statusCode": 3,
+    "home": {
+      "name": "Bournemouth",
+      "id": "OtpNdwrc",
+      "slug": "bournemouth",
+      "country": null,
+      "url": "https://www.flashscore.com/team/bournemouth/OtpNdwrc/"
+    },
+    "away": {
+      "name": "Sunderland",
+      "id": "WSzc94ws",
+      "slug": "sunderland",
+      "country": null,
+      "url": "https://www.flashscore.com/team/sunderland/WSzc94ws/"
+    },
+    "homeScore": 2,
+    "awayScore": 0,
+    "homeScoreFullTime": 2,
+    "awayScoreFullTime": 0,
+    "winner": "home",
+    "periods": [
+      {
+        "period": 1,
+        "home": 1,
+        "away": 0
+      },
+      {
+        "period": 2,
+        "home": 1,
+        "away": 0
+      }
+    ],
+    "listType": "results",
+    "sourceUrl": "https://www.flashscore.com/football/england/premier-league/results/",
+    "scrapedAt": "2026-10-22T09:18:16.810453Z"
+  }
+]
